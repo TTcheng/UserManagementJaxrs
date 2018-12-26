@@ -1,2 +1,2 @@
 # User Management JAX-RS
-A simple example using JAX-RS-API
+A simple RESTful webservice using JAX-RS api.
